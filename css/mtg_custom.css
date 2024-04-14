@@ -1,3 +1,5 @@
+.mtgc {
+	
 * {margin: 0; padding: 0; box-sizing: border-box; }
 
 /* card sizing and background */
@@ -243,7 +245,7 @@ footer p {
 	transform: rotateY(180deg);
 }
 
-
+}
 
 
 
