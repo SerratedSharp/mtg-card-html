@@ -1,4 +1,5 @@
-For this fork, I have published to a github.io page to see this HTML/CSS in action: https://serratedsharp.github.io/mtg-card-html/
+For this fork, I have published to a github.io page to see this HTML/CSS in action: https://serratedsharp.github.io/mtg-card-html/Card_Template.html
+
 I also wrapped the css in a `.mtgc` class that allows you to opt-in to classes to help avoid conflicts.
 
 ﻿# Magic The Gathering in HTML / CSS
